@@ -1,0 +1,10 @@
+name: UhcArena
+version: 1.0
+main: dev.dani.uhcarena.UhcArena
+api-version: "26.2"
+commands:
+  uhc:
+    description: Manage the UHC arena
+permissions:
+  uhcarena.admin:
+    default: op
